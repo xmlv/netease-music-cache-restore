@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+# NetEase cache inputs and restored media
+Music3/
+网易云音乐备份/
+*.nmsf
+*.nmsfi
+*.m4a
+*.mp3
+*.flac
+*.wav
+*.ogg
+*.config
+*.restore-tmp
+restore_report.csv
